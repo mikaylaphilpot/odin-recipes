@@ -7,7 +7,9 @@ h1, h2, h3 {
 .blueberry-muffins {
     color: #00008b;
 }
-.muffins-specifics {
+.muffins-specifics, .chicken-specifics {
     font-size: 18px;
 }
-
+.chicken-headings {
+    color: 	#c70000;
+}
