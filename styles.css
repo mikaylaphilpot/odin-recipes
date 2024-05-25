@@ -16,3 +16,27 @@ h1, h2, h3 {
 .cheddar-headings {
     color: #004600;
 }
+
+.index-body {
+    display: block;
+    width: 500;
+    height: 20px;
+    text-align: center;
+    background: white;
+    margin: auto;
+}
+.index-heading, .recipe-links{
+    display: block;
+    background: pink;
+    width: 500px;
+    margin-top: 8px;
+    margin-bottom: -8px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 8px;
+    color: #482980;
+    border: 2px solid steelblue;
+}
+.recipe-links {
+    font-size: 18px;
+}
