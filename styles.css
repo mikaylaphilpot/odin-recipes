@@ -22,7 +22,7 @@ h1, h2, h3 {
     width: 500;
     height: 20px;
     text-align: center;
-    background: white;
+    background: #eee;
     margin: auto;
 }
 .index-heading, .recipe-links{
